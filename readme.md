@@ -1,6 +1,6 @@
 # MongoDB & Node JS Blog
 
-Web app in Node JS and MongoDB.
+Web application (Blog) in **NodeJs**, **MongoDB**, **Express**, **EJS** & **Lodash**
 
 ## Installation
 
