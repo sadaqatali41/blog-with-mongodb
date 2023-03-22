@@ -1,6 +1,6 @@
 # MongoDB & Node JS Blog
 
-Web application (Blog) in **NodeJs**, **MongoDB**, **Express**, **EJS** & **Lodash**
+Web application (Blog) in **NodeJs**, **ExpressJs**, **MongoDB(Mongoose)**, **EJS**, **Lodash** & **Body-Parser**
 
 ## Installation
 
